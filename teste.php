@@ -85,5 +85,3 @@ for ($numero = 2; $numero <= 10; $numero++)
 
 echo "Os 3 primeiros numeros primos no intervalo de 1 - 10 são:<br> <b>{$primos}</b> "; // 1, 3, 5, 7
 
-
-
